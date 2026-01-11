@@ -1,0 +1,10 @@
+name: retro-radio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyqt
+  - pip
+  - pip:
+      - python-vlc
+
